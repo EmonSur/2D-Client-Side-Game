@@ -17,6 +17,20 @@ canvas {
   height: auto;
 }
 
+#header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+#homepage-button {
+  margin-right: 0px;
+  margin-left: 4px;
+}
+#back-button {
+  margin-left: auto;
+}
+
 
 h1 {
   color: #000080;
@@ -30,6 +44,8 @@ button {
   padding: 0.2em 0.4em;
   border-radius: 0.2em;
 }
+
+
 
 
 
@@ -59,4 +75,3 @@ button {
   color: white;
   background-color: #000080;
 }
-
