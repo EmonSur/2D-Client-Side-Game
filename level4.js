@@ -802,6 +802,15 @@ document.getElementById('hard-button').addEventListener('click', () => {
 	init();
 });
 
+document.getElementById('back-button').addEventListener('click', function () {
+    window.location.href = 'level3.html';
+});
+
+document.getElementById('homepage-button').addEventListener('click', function () {
+    // Navigate to the homepage (index.html)
+    window.location.href = 'index.html';
+});
+
 
 function resetGame() {
     // Reset the variables
