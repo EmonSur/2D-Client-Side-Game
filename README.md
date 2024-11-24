@@ -16,7 +16,7 @@ Dungeon Dash is a 2D client-side game that challenges players' reflexes and stra
 ## Screenshots
 
 ### Homepage
-![Dungeon Dash Homepage](creenshots/homepage_screenshot.png)
+![Dungeon Dash Homepage](Screenshots/homepage_screenshot.png)
 
 ### Instructions
 ![Instructions Page](Screenshots/instructions_screenshot.png)
