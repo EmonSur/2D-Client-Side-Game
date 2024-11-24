@@ -3,7 +3,7 @@ html {
   margin:  0 auto;
   max-width: 1082px;
   font-family: 'montserrat', 'sans-montserrat';
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgba(0, 0, 0, 0.7));
 }
 #canvas {
   border: 1px solid #000080;
